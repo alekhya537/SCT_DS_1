@@ -1,9 +1,9 @@
 # SCT_DS_1
 # Skillcraft Technology - Data Science Internship
 
-## 👨‍💻 Intern: [Your Name]
+## 👨‍💻 Intern: Alekhya Lingolu
 ## 🏢 Company: Skillcraft Technology
-## 📅 Internship Duration: [Start Date] - [End Date]
+## 📅 Internship Duration: 15-oct-2025 - 14th-nov-2025
 
 ---
 
